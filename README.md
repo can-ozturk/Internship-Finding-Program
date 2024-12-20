@@ -1,4 +1,4 @@
-##                                                                        25 GRUP NESNE TABANLI PROGRAMLAMA FINAL ÖDEVİ
+##                                                                      25 GRUP NESNE TABANLI PROGRAMLAMA FINAL ÖDEVİ
 
 
 
@@ -68,10 +68,10 @@ The program offers two language options: Turkish and English. Users can select t
 
 ## EKİP - TEAM 
 
-Can ÖZTÜRK
-Tarık KÖKSAL
-Muhammed Emin TOMBUL
-Berkay YILMAZ
+Can ÖZTÜRK\
+Tarık KÖKSAL\
+Muhammed Emin TOMBUL\
+Berkay YILMAZ\
 Yusuf Talha KOTAN
 
 
