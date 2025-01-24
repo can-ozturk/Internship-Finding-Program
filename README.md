@@ -1,4 +1,4 @@
-##                                                                      25 GRUP NESNE TABANLI PROGRAMLAMA FINAL ÖDEVİ
+##                                                                      NESNE TABANLI PROGRAMLAMA FINAL ÖDEVİ (OBJECT-ORIENTED PROGRAMMING FINAL ASSIGNMENT)
 
 
 
@@ -7,31 +7,25 @@
 ## Turkish
 Internship Finding Program Projesi
 
-"Internship Finding Program" adlı proje, Düzce Üniversitesi Nesne Tabanlı Programlama dersi kapsamında hazırladığımız bir ödevdi. Bu projeyi takım arkadaşlarımla birlikte gerçekleştirdik.
-
-Proje sürecinde aşağıdaki doküman ve materyalleri hazırladık:
+"Internship Finding Program" adlı proje, Düzce Üniversitesi Nesne Tabanlı Programlama dersi kapsamında hazırlanan bir ödevdi.
+Proje sürecinde aşağıdaki doküman ve materyalleri hazırladım:
 
 Akış Diyagramları: Projenin işleyişini ve mantığını görsel olarak ifade eden diyagramlar.
 Dokümantasyon: Projenin teknik detaylarını, kullanım kılavuzunu ve geliştirme sürecini içeren detaylı belgeler.
-PowerPoint Sunumu: Projemizi anlatmak ve süreçleri daha anlaşılır kılmak için hazırladığımız görsel sunum.
 Veritabanı Dosyaları: Projenin çalışmasını sağlayan ve verilerin tutulduğu veritabanı tasarımı ve dosyaları.
-Nesne Tabanlı Programlama Sertifikaları: Proje yetkinliğimizi göstermek amacıyla aldığımız sertifikalar.
-Bu proje, takım çalışması ve yazılım geliştirme becerilerimizi geliştirmek adına oldukça faydalı bir deneyim oldu.
+Nesne Tabanlı Programlama Sertifikası: Proje yetkinliğimizi göstermek amacıyla aldığımız sertifika.
 
 ## English
 
 Internship Finding Program Project
 
-The "Internship Finding Program" was a project we developed as part of the Object-Oriented Programming course at Düzce University. I completed this project together with my teammates.
-
-During the project, we prepared the following documents and materials:
+The project titled "Internship Finding Program" was an assignment prepared as part of the Object-Oriented Programming course at Düzce University.  
+During the project, I prepared the following documents and materials:  
 
 Flowcharts: Diagrams visually representing the workflow and logic of the project.
 Documentation: Detailed files including technical aspects, user guides, and development processes of the project.
-PowerPoint Presentation: A visual presentation prepared to explain the project and make its processes more comprehensible.
 Database Files: Database design and files that ensure the functionality and data storage of the project.
-Object-Oriented Programming Certificates: Certificates we obtained to demonstrate our competency in the project.
-This project was a highly beneficial experience for improving our teamwork and software development skills.
+Object-Oriented Programming Certificate: A certificate we obtained to demonstrate our project proficiency.
 ##
 
 ## [LinkedIn](https://www.linkedin.com/in/canzt/) • [Discord](https://discord.gg/5s7zFDx8mC) • [Instagram](https://www.instagram.com/cannztrk_) • [Web Site](https://www.canztrk.wuaze.com/)
@@ -66,13 +60,6 @@ Companies can review the applications they receive and either approve or reject 
 Language Options
 The program offers two language options: Turkish and English. Users can select their preferred language to use the program. The default language of the program is Turkish.
 
-## EKİP - TEAM 
-
-Can ÖZTÜRK\
-Tarık KÖKSAL\
-Muhammed Emin TOMBUL\
-Berkay YILMAZ\
-Yusuf Talha KOTAN
 
 
 ## Mail Address: cnaosturk34@gmail.com
