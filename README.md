@@ -28,7 +28,7 @@ Database Files: Database design and files that ensure the functionality and data
 Object-Oriented Programming Certificate: A certificate we obtained to demonstrate our project proficiency.
 ##
 
-## [LinkedIn](https://www.linkedin.com/in/canzt/) • [Discord](https://discord.gg/5s7zFDx8mC) • [Instagram](https://www.instagram.com/cannztrk_) • [Web Site](https://www.canztrk.wuaze.com/)
+## [LinkedIn](https://www.linkedin.com/in/canzt/) • [Discord](https://discord.gg/5s7zFDx8mC) • [Instagram](https://www.instagram.com/cannztrk_) • [Web Site](https://ozturkk.com/)
 
 ## Proje Hakkında - About the Project
 
