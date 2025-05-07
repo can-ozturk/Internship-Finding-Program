@@ -80,4 +80,4 @@ The program provides two language options: **Turkish** and **English**. Users ca
 ![Can's GitHub Stats / Can'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=can-ozturk&show_icons=true&theme=tokyonight)  
 ![Top Languages / Bütün Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=can-ozturk&layout=compact&theme=tokyonight)
 
- 
+  
