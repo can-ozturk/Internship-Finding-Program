@@ -30,3 +30,4 @@ assignees: ''
 ## Additional Notes / Ek Notlar
 **EN:** Any other information you want to share.  
 **TR:** Paylaşmak istediğiniz ek bilgiler.
+ 
