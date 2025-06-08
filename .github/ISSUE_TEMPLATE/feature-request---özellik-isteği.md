@@ -26,4 +26,4 @@ assignees: ''
 ## Additional context / Ek Bilgiler
 **EN:** Add any other context or screenshots about the feature request here.  
 **TR:** Özellik ile ilgili başka detaylar veya ekran görüntüleri ekleyin.
-   
+    
