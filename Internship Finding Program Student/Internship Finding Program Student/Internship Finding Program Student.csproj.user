@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="EpostaDegistir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FirmaBilgileriDegistir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FirmaBilgileriSorumlu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FirmaHesapAyarlari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OgrenciGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OgrenciKontrolPaneli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HesapAyarlari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SifreDegistir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SorumluGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SorumluKontrolPaneli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SorunBildir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UygulamaAyarlari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YoneticiGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FirmaHesapSifre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YoneticiKontrolPaneli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YoneticiUygulamaAyarlari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

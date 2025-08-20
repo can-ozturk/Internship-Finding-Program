@@ -1,0 +1,308 @@
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Internship Finding Program Student.exe
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Internship Finding Program Student.deps.json
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Internship Finding Program Student.runtimeconfig.json
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Internship Finding Program Student.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Internship Finding Program Student.pdb
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.csproj.AssemblyReference.cache
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.EpostaDegistir.resources
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.FirmaBilgileriDegistir.resources
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.FirmaBilgileriSorumlu.resources
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.FirmaHesapAyarlari.resources
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.FirmaHesapSifre.resources
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.Giris.resources
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.HesapAyarlari.resources
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.Ogrenci_Giris.resources
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.Ogrenci_Kontrol_Paneli.resources
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.Properties.Resources.resources
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.SifreDegistir.resources
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.SorumluGiris.resources
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.SorumluKontrolPaneli.resources
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.SorunBildir.resources
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.UygulamaAyarlari.resources
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.YoneticiGiris.resources
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.YoneticiKontrolPaneli.resources
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.YoneticiUygulamaAyarlari.resources
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.csproj.GenerateResource.cache
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.GeneratedMSBuildEditorConfig.editorconfig
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.AssemblyInfoInputs.cache
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.AssemblyInfo.cs
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.csproj.CoreCompileInputs.cache
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internsh.BAC5705A.Up2Date
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\refint\Internship Finding Program Student.dll
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.pdb
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.genruntimeconfig.cache
+D:\Private\Lesson\OOP\Project\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\ref\Internship Finding Program Student.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Internship Finding Program Student.exe
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Internship Finding Program Student.deps.json
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Internship Finding Program Student.runtimeconfig.json
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Internship Finding Program Student.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Internship Finding Program Student.pdb
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.csproj.AssemblyReference.cache
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.EpostaDegistir.resources
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.FirmaBilgileriDegistir.resources
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.FirmaBilgileriSorumlu.resources
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.FirmaHesapAyarlari.resources
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.FirmaHesapSifre.resources
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.Giris.resources
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.HesapAyarlari.resources
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.Ogrenci_Giris.resources
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.Ogrenci_Kontrol_Paneli.resources
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.Properties.Resources.resources
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.SifreDegistir.resources
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.SorumluGiris.resources
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.SorumluKontrolPaneli.resources
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.SorunBildir.resources
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.UygulamaAyarlari.resources
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.YoneticiGiris.resources
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.YoneticiKontrolPaneli.resources
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.YoneticiUygulamaAyarlari.resources
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.csproj.GenerateResource.cache
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.AssemblyInfoInputs.cache
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.AssemblyInfo.cs
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.csproj.CoreCompileInputs.cache
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internsh.BAC5705A.Up2Date
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\refint\Internship Finding Program Student.dll
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.pdb
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.genruntimeconfig.cache
+C:\Users\Lord\Desktop\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\ref\Internship Finding Program Student.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Internship Finding Program Student.exe
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Internship Finding Program Student.deps.json
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Internship Finding Program Student.runtimeconfig.json
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Internship Finding Program Student.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Internship Finding Program Student.pdb
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.csproj.AssemblyReference.cache
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.EpostaDegistir.resources
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.FirmaBilgileriDegistir.resources
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.FirmaBilgileriSorumlu.resources
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.FirmaHesapAyarlari.resources
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.FirmaHesapSifre.resources
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.Giris.resources
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.HesapAyarlari.resources
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.Ogrenci_Giris.resources
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.Ogrenci_Kontrol_Paneli.resources
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.Properties.Resources.resources
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.SifreDegistir.resources
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.SorumluGiris.resources
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.SorumluKontrolPaneli.resources
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.SorunBildir.resources
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.UygulamaAyarlari.resources
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.YoneticiGiris.resources
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.YoneticiKontrolPaneli.resources
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.YoneticiUygulamaAyarlari.resources
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.csproj.GenerateResource.cache
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.AssemblyInfoInputs.cache
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.AssemblyInfo.cs
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.csproj.CoreCompileInputs.cache
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internsh.BAC5705A.Up2Date
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\refint\Internship Finding Program Student.dll
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.pdb
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.genruntimeconfig.cache
+C:\Users\Can\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\ref\Internship Finding Program Student.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Internship Finding Program Student.exe
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Internship Finding Program Student.deps.json
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Internship Finding Program Student.runtimeconfig.json
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Internship Finding Program Student.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Internship Finding Program Student.pdb
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.csproj.AssemblyReference.cache
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.EpostaDegistir.resources
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.FirmaBilgileriDegistir.resources
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.FirmaBilgileriSorumlu.resources
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.FirmaHesapAyarlari.resources
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.FirmaHesapSifre.resources
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.Giris.resources
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.HesapAyarlari.resources
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.Ogrenci_Giris.resources
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.Ogrenci_Kontrol_Paneli.resources
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.Properties.Resources.resources
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.SifreDegistir.resources
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.SorumluGiris.resources
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.SorumluKontrolPaneli.resources
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.SorunBildir.resources
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.UygulamaAyarlari.resources
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.YoneticiGiris.resources
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.YoneticiKontrolPaneli.resources
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship_Finding_Program_Student.YoneticiUygulamaAyarlari.resources
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.csproj.GenerateResource.cache
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.AssemblyInfoInputs.cache
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.AssemblyInfo.cs
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.csproj.CoreCompileInputs.cache
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internsh.BAC5705A.Up2Date
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\refint\Internship Finding Program Student.dll
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.pdb
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\Internship Finding Program Student.genruntimeconfig.cache
+C:\Users\Can\Proje\Internship Finding Program Student\Internship Finding Program Student\obj\Debug\net8.0-windows\ref\Internship Finding Program Student.dll
