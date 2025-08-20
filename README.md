@@ -4,7 +4,7 @@
 ---
 
 ## Turkish  
-### Internship Finding Program Projesi 
+### Internship Finding Program Projesi  
 "Internship Finding Program" adlı proje, Düzce Üniversitesi Nesne Tabanlı Programlama dersi kapsamında hazırlanan bir ödevdir.  
 Proje sürecinde aşağıdaki doküman ve materyaller hazırlanmıştır:  
 
